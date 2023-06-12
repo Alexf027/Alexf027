@@ -4,11 +4,11 @@
     <h3 align="center">A passionate web fullstack developer fom Colombia<h3>
 </div>
 <div id="badges" align="center">
-    <a href="https://twitter.com/alexf027?s=11&t=tV71vZgOpY1A2y6oA6ys9Q">
-    <img src="https://img.shields.io/twitter/url?color=blue&label=%40Alexf027&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Falexf027%3Fs%3D11%26t%3DtV71vZgOpY1A2y6oA6ys9Q" alt="Twitter badge">
+    <a href="https://twitter.com/alexf027?s=11&t=tV71vZgOpY1A2y6oA6ys9Q" targe="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" targe="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/alexander-florez-772109268">
-    <img src="" alt="">
+    <a href="https://www.linkedin.com/in/alexander-florez-772109268" targe="_blank">
+    <img src="https://img.shields.io/badge/-LinkedId-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank">
     </a>
 </div>
 
