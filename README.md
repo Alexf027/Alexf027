@@ -34,7 +34,7 @@
        
 ---
         
-### 📊 my Stats :
+### 📊 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexf027&theme=tokyonight&hide_border=FALSO)](https://git.io/streak-stats)
         
 ![Alexf027 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexf027&show_icons=true&theme=tokyonight)
