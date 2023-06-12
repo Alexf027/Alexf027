@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" targe="_blank">
     </a>
     <a href="https://www.linkedin.com/in/alexander-florez-772109268" targe="_blank">
-    <img src="https://img.shields.io/badge/-LinkedId-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank">
     </a>
     <a href="https://discord.com/users/1071968296162820177" targe="_blank">
     <img src="https://img.shields.io/badge/-Discord-404EED?style=for-the-badge&logo=discord&logoColor=white"        targe="_blank">
