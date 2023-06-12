@@ -21,17 +21,29 @@
 <div align="left">
   <h3>🛠️ Languages and Tools</h3>
    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"                alt="Git" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"          alt="HTML" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"            alt="CSS" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"              title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"              title="React" alt="React" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"                      title="NodeJs" alt="NodeJs" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"                    title="Express" alt="Express" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"              title="MongoDB" alt="MongoDB" width="40" height="40">  
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40">  
     </div>
 </div> 
        
 ---
         
 ### 📊 my Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexf027&theme=tokyonight&hide_border=FALSO)](https://git.io/streak-stats)
+        
+![Alexf027 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexf027&show_icons=true&theme=tokyonight)
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexf027&theme=tokyonight)](https://github.com/Alexf027/github-readme-stats)
+        
+---
+        
+### 🐍 Repository :
+
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg" alt="Snake">
+
