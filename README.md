@@ -11,6 +11,12 @@
     <a href="https://www.linkedin.com/in/alexander-florez-772109268" targe="_blank">
     <img src="https://img.shields.io/badge/-LinkedId-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank">
     </a>
+    <a href="" targe="_blank">
+    <a href="https://discord.com/users/1071968296162820177" targe="_blank">
+    <img src="https://img.shields.io/badge/-Discord-404EED?style=for-the-badge&logo=discord&logoColor=white"        targe="_blank">
+    </a>
+    <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"            targe="_blank">
+    </a>
 </div>
 
 ---
