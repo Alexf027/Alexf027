@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjIwOWUxZGY1ODg1Mzc3NTJjNDI5ZGQ4M2I3N2FmYzdlYWNmZWI4MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CpsrBoNWF9tZvbTZw5/giphy.gif" width=200>
-    <h1 align="center">Hi👋, I`m Alexander Florez</h1>
-    <h3 align="center">A passionate web fullstack developer fom Colombia, I like to ivestigar about technology and automation.
-        I assume with responsibility the challenges and the participation of new projects 🚩<h3>
+    <h1 align="center">Hola👋, Soy Alexander Florez</h1>
+    <h3 align="center">Apasionado desarrollador web fullstack de Colombia, me gusta investigar sobre tecnologías.
+        Asumo con responsabilidad los retos y la participación de nuevos proyectos. 🚩<h3>
 </div>
 <div id="badges" align="center">
     <a href="https://twitter.com/alexf027?s=11&t=tV71vZgOpY1A2y6oA6ys9Q" targe="_blank">
@@ -21,12 +21,12 @@
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Sobre mi :
    
 - 📬 How to reach me **alexfb.027@gmail.com**
     
 <div align="left">
-  <h3>🛠️ Languages and Tools</h3>
+  <h3>🛠️ Idiomas y herramientas</h3>
    <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
@@ -41,7 +41,7 @@
        
 ---
         
-### 📊 My Stats :
+### 📊 Mis estadísticas :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexf027&theme=tokyonight&hide_border=FALSO)](https://git.io/streak-stats)
         
 ![Alexf027 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexf027&show_icons=true&theme=tokyonight)
