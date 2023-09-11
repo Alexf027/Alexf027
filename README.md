@@ -12,10 +12,13 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank">
     </a>
     <a href="https://discord.com/users/1071968296162820177" targe="_blank">
-    <img src="https://img.shields.io/badge/-Discord-404EED?style=for-the-badge&logo=discord&logoColor=white"        targe="_blank">
+    <img src="https://img.shields.io/badge/-Discord-404EED?style=for-the-badge&logo=discord&logoColor=white" targe="_blank">
     </a>
     <a href="https://alexfb027.slack.com" targe="_blank">
-    <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"            targe="_blank">
+    <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" targe="_blank">
+    </a>
+    <a href="https://instagram.com/alex.f207?igshid=OGQ5ZDc2ODk2ZA==" targe="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-d62e81?style=for-the-badge&logo=instagram&logoColor=white" targe="_blank">
     </a>
 </div>
 
@@ -23,19 +26,24 @@
 
 ### 👨‍💻 Sobre mi :
    
-- 📬 How to reach me **alexfb.027@gmail.com**
+- 📬 contactar **alexfb.027@gmail.com**
+- 🧠 Actualmente aprendo **AWS, Jenkins e Ingles**
+- 🌐 sitio web en contruccion
     
 <div align="left">
   <h3>🛠️ Idiomas y herramientas</h3>
    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40">  
+       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40">&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40">&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40">&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40">&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40">&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40">&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40">
     </div>
 </div> 
        
@@ -50,7 +58,7 @@
         
 ---
         
-### 🐍 Repository :
+### 🐍 Repositorio :
 
 <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg" alt="Snake">
 
