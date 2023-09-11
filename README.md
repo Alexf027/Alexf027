@@ -31,7 +31,7 @@
 - 🌐 sitio web en contruccion
     
 <div align="left">
-  <h3>🛠️ Idiomas y herramientas</h3>
+  <h3>🛠️ Lenguajes y Herramientas</h3>
    <div>
        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40">&nbsp;
