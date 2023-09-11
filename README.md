@@ -43,7 +43,7 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40">&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40">&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40">&nbsp;
-       <img src="https://iconscout.com/icons/aws" title="AWS" alt="AWS" width="40" height="40">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40">
     </div>
 </div> 
        
