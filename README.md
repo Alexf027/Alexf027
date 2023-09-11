@@ -24,7 +24,7 @@
 
 ---
 
-### 👨‍💻 Sobre mi :
+### 👨‍💻 Sobre mí :
    
 - 📬 contactar **alexfb.027@gmail.com**
 - 🧠 Actualmente aprendo **AWS, Jenkins e Ingles**
