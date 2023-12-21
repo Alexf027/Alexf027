@@ -1,8 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjIwOWUxZGY1ODg1Mzc3NTJjNDI5ZGQ4M2I3N2FmYzdlYWNmZWI4MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CpsrBoNWF9tZvbTZw5/giphy.gif" width=200>
     <h1 align="center">Hola👋, Soy Alexander Florez</h1>
-    <h3 align="center">Apasionado desarrollador web fullstack de Colombia, me gusta investigar sobre tecnologías.
-        Asumo con responsabilidad los retos y la participación de nuevos proyectos. 🚩<h3>
+    <h3 align="center">Desarrollador Web apasionado, caracterizado por una excepcional habilidad autodidacta y un profundo amor por la innovación tecnológica. Destaco por mi rápida adaptación y aprendizaje en tecnologías emergentes, lo que me ha llevado a liderar y contribuir significativamente en proyectos vanguardistas. Mi enfoque integral en el desarrollo web, combinado con una visión creativa y analítica, me permite aportar soluciones únicas y efectivas en entornos de trabajo colaborativos. 🚩<h3>
 </div>
 <div id="badges" align="center">
     <a href="https://twitter.com/alexf027?s=11&t=tV71vZgOpY1A2y6oA6ys9Q" targe="_blank">
